@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Black eyed peas 
+=======
+Epic Music
+Celtic Music
+Metal Music
+>>>>>>> 0a4b918169347dfb74f860e98aaf64769948d07b
