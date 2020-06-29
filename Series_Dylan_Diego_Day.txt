@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Breaking bad
 That's 70 shows
 Vikings
+=======
+Vikingos
+Gotham
+Dark
+Ragnarok
+Los 100
+>>>>>>> f577444b9adc35e672fd8eeb13431b0a899f68ff
